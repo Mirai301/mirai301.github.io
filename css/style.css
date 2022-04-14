@@ -1,10 +1,3 @@
-.table table-striped {
-	width:450px;
-}
-.table table-striped th ,.table table-striped td {
-	width:100px;
-}
-
 img {
 	border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
 	width:  65px;       /* ※縦横を同値に */
