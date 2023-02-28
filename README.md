@@ -27,7 +27,7 @@
 - Sep.2022 - [pixiv inc.](https://minimalist2001.hatenablog.com/entry/2023/02/01/123000)
   - Long-term Internship
 
-### Working
+#### Working
 
   - Jan.2023 - pixiv inc.
     - Corporate Engineer
@@ -43,7 +43,7 @@
 - C
 - etc...
 
-### Content
+#### Content
 
 - [HackTheBox](https://app.hackthebox.com/profile/511098)
 - [TryHackMe](https://tryhackme.com/p/mirai301)
