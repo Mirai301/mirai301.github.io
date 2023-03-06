@@ -29,10 +29,11 @@
 
 #### Working
 
+- part-time
   - Jan.2023 - pixiv inc.
     - Corporate Engineer
   - Feb.2023 - pixiv inc.
-    - Infra Engineer(SRE)
+    - Infrastructure Engineer
 
 #### Programming Language
 
