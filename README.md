@@ -33,7 +33,14 @@
   - Jan.2023 - pixiv inc.
     - Corporate Engineer
   - Feb.2023 - pixiv inc.
-    - Infrastructure Engineer
+    - Infrastructure Engineer  
+  - Aug.2023 - Cyber Security Company.  
+    - Web Pentester  
+  
+#### Certification
+- LPIC Level 1
+- OSCP  
+  - [My OSCP Experience](https://minimalist2001.hatenablog.com/entry/2023/07/31/190000)
 
 #### Programming Language
 
@@ -58,4 +65,4 @@
 
 -----
 
-last updated: February	28, 2023
+last updated: August 10, 2023
