@@ -36,6 +36,11 @@
     - Infrastructure Engineer  
   - Aug.2023 - Cyber Security Company.  
     - Web Pentester  
+
+#### Event
+
+- [Security MiniCamp in Yamanashi 2023](https://www.security-camp.or.jp/minicamp/yamanashi2023.html)
+  - Sep.2023(2 days)
   
 #### Certification
 - LPIC Level 1
@@ -65,4 +70,4 @@
 
 -----
 
-last updated: August 10, 2023
+last updated: September 24, 2023
