@@ -34,8 +34,11 @@
     - Corporate Engineer
   - Feb.2023 - pixiv inc.
     - Infrastructure Engineer  
-  - Aug.2023 - Cyber Security Company.  
-    - Web Pentester  
+  - Aug.2023 - GMO Cybersecurity by Ierae, Inc.    
+    - Vulnerability Assessment  
+- full-time  
+  - Apr.2024 - dit Co., Ltd.
+    - Vulnerability Assessment, Pentest  
 
 #### Event
 
@@ -43,9 +46,11 @@
   - Sep.2023(2 days)
   
 #### Certification
-- LPIC Level 1
+- LPIC-1
 - OSCP  
   - [My OSCP Experience](https://minimalist2001.hatenablog.com/entry/2023/07/31/190000)
+- IPA 情報セキュリティマネジメントシステム(SG)  
+- 情報システム試験 システムエンジニア認定  
 
 #### Programming Language
 
@@ -64,10 +69,12 @@
 
 #### Contact
 
+- Linkedin  
+  -   [mirai301](www.linkedin.com/in/mirai301)  
 - DM on Twitter
   - [@minimal_mirai](https://twitter.com/minimal_mirai)
 - [Google form](https://docs.google.com/forms/d/e/1FAIpQLScorN-lNm_939aS6zxz874rWihrZcUxG3efOB7tgwzCicTSrw/viewform)
 
 -----
 
-last updated: September 24, 2023
+last updated: November 24, 2024
