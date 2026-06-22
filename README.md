@@ -1,4 +1,4 @@
-# About mirai (@Minimal_Mirai)
+# About mirai
 
 ## Profile
 
@@ -8,9 +8,6 @@
   - Shiga, Japan
 - Blog:
   - Hatena Blog([minimal_mirai](https://minimalist2001.hatenablog.com/archive))
-- Twitter:
-  - みらい ([@Minimal_Mirai](https://twitter.com/minimal_mirai))
-
 
 ### History
 #### Education
@@ -71,8 +68,6 @@
 
 - Linkedin  
   -   [mirai301](www.linkedin.com/in/mirai301)  
-- DM on Twitter
-  - [@minimal_mirai](https://twitter.com/minimal_mirai)
 - [Google form](https://docs.google.com/forms/d/e/1FAIpQLScorN-lNm_939aS6zxz874rWihrZcUxG3efOB7tgwzCicTSrw/viewform)
 
 -----
